@@ -550,7 +550,7 @@ Envoyez des messages Discord avec docker compose :
 Si la variable d'environnement **TARGET_MANIFEST_ID** est définie, elle verrouillera la version
 du serveur sur un manifeste spécifique.
 Le manifeste correspond aux dates de sortie/mises à jour. Les manifestes peuvent être trouvés
-à l'aide de SteamCMD ou de sites web comme [SteamDB](https://steamdb.info/depot/2394012/manifests/).
+à l'aide de SteamCMD ou de sites web comme [SteamDB](https://steamdb.info/depot/2857201/manifests/).
 
 ### Tableau des Versions Vers les ID de Manifeste
 

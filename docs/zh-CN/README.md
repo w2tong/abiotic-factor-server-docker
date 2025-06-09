@@ -459,7 +459,7 @@ docker compose down && docker compose up -d
 >**请自行承担风险！**
 
 如果 **TARGET_MANIFEST_ID** 环境变量被设置，服务器将锁定到特定的 manifest 版本。
-manifest 对应于发布日期/更新版本。manifest 可以在 SteamCMD 或 [SteamDB](https://steamdb.info/depot/2394012/manifests/)
+manifest 对应于发布日期/更新版本。manifest 可以在 SteamCMD 或 [SteamDB](https://steamdb.info/depot/2857201/manifests/)
 等网站上找到。
 
 ### 版本和 manifest 对照表

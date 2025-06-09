@@ -11,7 +11,7 @@ sidebar_position: 7
 :::
 
 如果设置了 **TARGET_MANIFEST_ID** 环境变量，将会锁定服务器版本到特定的清单（manifest）。
-清单对应发布日期/更新版本。可以使用 SteamCMD 或类似 [SteamDB](https://steamdb.info/depot/2394012/manifests/) 的网站找到清单。
+清单对应发布日期/更新版本。可以使用 SteamCMD 或类似 [SteamDB](https://steamdb.info/depot/2857201/manifests/) 的网站找到清单。
 
 ## 版本与清单 ID 对照表
 

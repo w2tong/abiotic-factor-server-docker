@@ -12,7 +12,7 @@ Accounts with Steam Guard enabled are currently not supported.
 :::
 
 If **TARGET_MANIFEST_ID** environment variable is set, will lock server version to specific manifest.
-The manifest corresponds to the release date/update versions. Manifests can be found using SteamCMD or websites like [SteamDB](https://steamdb.info/depot/2394012/manifests/).
+The manifest corresponds to the release date/update versions. Manifests can be found using SteamCMD or websites like [SteamDB](https://steamdb.info/depot/2857201/manifests/).
 
 ## Version To Manifest ID Table
 

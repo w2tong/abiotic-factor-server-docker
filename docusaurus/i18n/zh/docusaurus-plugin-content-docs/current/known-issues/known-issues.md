@@ -33,7 +33,7 @@ sidebar_position: 4
 
 这可以安全地忽略，不会影响服务器。
 
-## Setting breakpad minidump AppID = 2394010
+## Setting breakpad minidump AppID = 2857200
 
 这表示服务器正在运行，如果仍然无法连接到它，说明您需要检查以下事项：
 

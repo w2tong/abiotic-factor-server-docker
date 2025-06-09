@@ -34,7 +34,7 @@ countdown_exit_code=$?
 case "${countdown_exit_code}" in
     0 )
         LogAction "Updating the server from $CURRENT_MANIFEST to $TARGET_MANIFEST."
-        rm /palworld/steamapps/appmanifest_2394010.acf
+        rm /palworld/steamapps/appmanifest_2857200.acf
 
         backup
         shutdown_server

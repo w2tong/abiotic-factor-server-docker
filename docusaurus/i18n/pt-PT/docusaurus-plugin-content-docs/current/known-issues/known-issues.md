@@ -35,7 +35,7 @@ Por vezes, o servidor apresenta o seguinte erro:
 
 Este facto pode ser ignorado com segurança e não terá impacto no servidor.
 
-## Setting breakpad minidump AppID = 2394010
+## Setting breakpad minidump AppID = 2857200
 
 Isto significa que o servidor está a funcionar. Se continuar a não conseguir ligar-se a ele,
 isso significa que terá de verificar o seguinte:

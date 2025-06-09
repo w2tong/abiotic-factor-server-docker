@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Palworld Dedicated Server - Bekannte Probleme
-description: Die aktuellen bekannten Probleme des Palworld Dedicated Servers, umfassen S_API FAIL, Setting breakpad minidump AppID = 2394010 und mehr.
+description: Die aktuellen bekannten Probleme des Palworld Dedicated Servers, umfassen S_API FAIL, Setting breakpad minidump AppID = 2857200 und mehr.
 keywords: [Palworld, palworld dedicated server, Palworld dedicated server Bekannte Probleme, Palworld dedicated server Probleme]
 image: ../../assets/Palworld_Banner.jpg
 sidebar_label: Bekannte Probleme
@@ -11,7 +11,7 @@ sidebar_label: Bekannte Probleme
 
 Bekannte Probleme bei der Verwendung dieses Docker-Images.
 Die aktuellen bekannten Probleme des Palworld Dedicated Servers, umfassen S_API FAIL,
-Setting breakpad minidump AppID = 2394010 und mehr.
+Setting breakpad minidump AppID = 2857200 und mehr.
 
 ## PalWorldSettings.ini wird immer zurückgesetzt
 
@@ -57,7 +57,7 @@ Manchmal gibt der Server den folgenden Fehler aus:
 
 Dies kann ignoriert werden und hat keinen Einfluss auf den Server.
 
-## Setting breakpad minidump AppID = 2394010
+## Setting breakpad minidump AppID = 2857200
 
 Dies bedeutet, dass der Server läuft. Wenn Sie immer noch keine Verbindung herstellen können, überprüfen Sie bitte Folgendes:
 

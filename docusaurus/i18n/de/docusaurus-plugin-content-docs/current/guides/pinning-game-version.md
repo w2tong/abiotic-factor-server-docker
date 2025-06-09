@@ -14,7 +14,7 @@ vorhandene Spielstände haben wird.
 Wenn die Umgebungsvariable **TARGET_MANIFEST_ID** gesetzt ist, wird die Serverversion auf ein bestimmtes Manifest
 festgelegt.
 Ein Manifest entspricht einem veröffentlichten Zustand des Spiels an einem gewissen Datum. Manifeste können mithilfe
-von SteamCMD oder Websites wie [SteamDB](https://steamdb.info/depot/2394012/manifests/) gefunden werden.
+von SteamCMD oder Websites wie [SteamDB](https://steamdb.info/depot/2857201/manifests/) gefunden werden.
 
 ## Spielversion zu Manifest-ID
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: 팔월드 데디케이트 서버 알려진 버그
-description: 현재 알려진 팔월드 데디케이트 서버 버그, including S_API FAIL, Setting breakpad minidump AppID = 2394010 그리고 더.
+description: 현재 알려진 팔월드 데디케이트 서버 버그, including S_API FAIL, Setting breakpad minidump AppID = 2857200 그리고 더.
 keywords: [Palworld, palworld dedicated server, Palworld dedicated server known issues, Palworld dedicated server issues]
 image: ../../assets/Palworld_Banner.jpg
 sidebar_label: Known issues
@@ -10,7 +10,7 @@ sidebar_label: Known issues
 # 팔월드 데디케이트 서버 알려진 버그
 
 현재 알려진 팔월드 데디케이트 서버 버그,
-including S_API FAIL, Setting breakpad minidump AppID = 2394010 그리고 더.
+including S_API FAIL, Setting breakpad minidump AppID = 2857200 그리고 더.
 
 ## PalWorldSettings.ini가 계속 초기화되는 문제
 
@@ -53,7 +53,7 @@ The server will sometimes output the following error:
 
 This can safely be ignored and will not impact the server.
 
-## Setting breakpad minidump AppID = 2394010
+## Setting breakpad minidump AppID = 2857200
 
 This means that the server is up and running, if you still can't connect to it,
 it means that you'll need to look at the following:

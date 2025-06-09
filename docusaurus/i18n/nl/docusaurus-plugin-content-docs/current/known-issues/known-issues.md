@@ -35,7 +35,7 @@ De server zal soms de volgende foutmelding weergeven:
 
 Dit kan veilig worden genegeerd en zal geen invloed hebben op de server.
 
-## Setting breakpad minidump AppID = 2394010
+## Setting breakpad minidump AppID = 2857200
 
 Dit betekent dat de server actief is en draait. Als je nog steeds geen verbinding kunt maken,
 betekent dit dat je het volgende moet controleren:
